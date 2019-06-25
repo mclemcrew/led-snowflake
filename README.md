@@ -1,4 +1,4 @@
-# LED-Snowflake
+# LED-Snowflake :snowflake:
 This Christmas decoration was made with the intent of mass producing these for friends/family.  Didn't necessarily turn out that way...but I ended up building around 15 or so for friends/family during Christmas 2018 :christmas_tree:
 
 
